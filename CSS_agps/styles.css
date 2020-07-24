@@ -1,0 +1,17 @@
+body {
+  background-color: #222831;
+}
+hr {
+  border-style: none;
+  border-top: 5px dotted #393E46;
+  height: 2px;
+  width: 20%;
+}
+h1, h3, th{
+  color: #EEEEEE;
+  font-family: sans-serif;
+}
+li, td, p {
+  color: #EEEEEE;
+  font-family: serif;
+}
